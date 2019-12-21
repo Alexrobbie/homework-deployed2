@@ -1,0 +1,23 @@
+
+
+body {
+  background-color: rgb(252, 239, 215);
+}
+.head {
+  background-color: maroon;
+  color: goldenrod;
+}
+.name {
+  font-size: larger;
+}
+form {
+  text-align: center;
+  
+}
+
+.message {
+  height: 150px;
+}
+input {
+  width: 60%;
+}
